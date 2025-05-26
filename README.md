@@ -8,6 +8,7 @@ Revision For DSA
 | ------- |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Hash Table
@@ -57,4 +58,8 @@ Revision For DSA
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
