@@ -9,6 +9,7 @@ Revision For DSA
 | [0035-search-insert-position](https://github.com/viveksingh2904/DSAPractice/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/viveksingh2904/DSAPractice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -65,6 +66,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/viveksingh2904/DSAPractice/tree/master/0035-search-insert-position) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/viveksingh2904/DSAPractice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
 ## Math
 |  |
