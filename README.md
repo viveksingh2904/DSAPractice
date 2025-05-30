@@ -6,6 +6,7 @@ Revision For DSA
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/viveksingh2904/DSAPractice/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
@@ -63,6 +64,7 @@ Revision For DSA
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/viveksingh2904/DSAPractice/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
 ## Math
 |  |
