@@ -9,6 +9,7 @@ Revision For DSA
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/viveksingh2904/DSAPractice/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/viveksingh2904/DSAPractice/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viveksingh2904/DSAPractice/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -50,6 +51,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/viveksingh2904/DSAPractice/tree/master/0322-coin-change) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Graph
