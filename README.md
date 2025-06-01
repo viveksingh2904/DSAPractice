@@ -25,6 +25,7 @@ Revision For DSA
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/viveksingh2904/DSAPractice/tree/master/0014-longest-common-prefix) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Greedy
 |  |
@@ -98,4 +99,8 @@ Revision For DSA
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/viveksingh2904/DSAPractice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
