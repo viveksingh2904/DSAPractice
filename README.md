@@ -17,6 +17,7 @@ Revision For DSA
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viveksingh2904/DSAPractice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/viveksingh2904/DSAPractice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/viveksingh2904/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -65,6 +66,7 @@ Revision For DSA
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/viveksingh2904/DSAPractice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
 |  |
@@ -99,6 +101,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/viveksingh2904/DSAPractice/tree/master/0322-coin-change) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/viveksingh2904/DSAPractice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/viveksingh2904/DSAPractice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Divide and Conquer
 |  |
