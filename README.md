@@ -10,6 +10,7 @@ Revision For DSA
 | [0035-search-insert-position](https://github.com/viveksingh2904/DSAPractice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/viveksingh2904/DSAPractice/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/viveksingh2904/DSAPractice/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -32,6 +33,7 @@ Revision For DSA
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/viveksingh2904/DSAPractice/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
