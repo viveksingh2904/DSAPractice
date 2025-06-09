@@ -92,10 +92,12 @@ Revision For DSA
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0543-diameter-of-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/viveksingh2904/DSAPractice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0543-diameter-of-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/viveksingh2904/DSAPractice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
@@ -111,4 +113,8 @@ Revision For DSA
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/viveksingh2904/DSAPractice/tree/master/0014-longest-common-prefix) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
