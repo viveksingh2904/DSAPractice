@@ -20,6 +20,7 @@ Revision For DSA
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/viveksingh2904/DSAPractice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/viveksingh2904/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/viveksingh2904/DSAPractice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
