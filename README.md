@@ -13,6 +13,7 @@ Revision For DSA
 | [0135-candy](https://github.com/viveksingh2904/DSAPractice/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/viveksingh2904/DSAPractice/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viveksingh2904/DSAPractice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0135-candy](https://github.com/viveksingh2904/DSAPractice/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -54,6 +56,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/viveksingh2904/DSAPractice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -69,6 +72,7 @@ Revision For DSA
 | [0070-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/viveksingh2904/DSAPractice/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Graph
 |  |
