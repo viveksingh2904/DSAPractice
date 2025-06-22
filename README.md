@@ -35,6 +35,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/viveksingh2904/DSAPractice/tree/master/0014-longest-common-prefix) |
+| [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/viveksingh2904/DSAPractice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Greedy
@@ -66,6 +67,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 ## Dynamic Programming
 |  |
@@ -74,6 +76,7 @@ Revision For DSA
 | [0070-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/viveksingh2904/DSAPractice/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Graph
