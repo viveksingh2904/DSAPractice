@@ -17,6 +17,7 @@ Revision For DSA
 | [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viveksingh2904/DSAPractice/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/viveksingh2904/DSAPractice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -78,6 +79,7 @@ Revision For DSA
 | [0322-coin-change](https://github.com/viveksingh2904/DSAPractice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0747-min-cost-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Graph
 |  |
