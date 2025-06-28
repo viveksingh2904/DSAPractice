@@ -80,6 +80,7 @@ Revision For DSA
 | [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0747-min-cost-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/viveksingh2904/DSAPractice/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Graph
 |  |
@@ -94,6 +95,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/viveksingh2904/DSAPractice/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Binary Search
 |  |
@@ -107,6 +109,7 @@ Revision For DSA
 | ------- |
 | [0009-palindrome-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/viveksingh2904/DSAPractice/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
