@@ -19,6 +19,7 @@ Revision For DSA
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viveksingh2904/DSAPractice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/viveksingh2904/DSAPractice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/viveksingh2904/DSAPractice/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -104,6 +105,7 @@ Revision For DSA
 | [0035-search-insert-position](https://github.com/viveksingh2904/DSAPractice/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viveksingh2904/DSAPractice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
