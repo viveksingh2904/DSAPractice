@@ -41,6 +41,7 @@ Revision For DSA
 | ------- |
 | [0014-longest-common-prefix](https://github.com/viveksingh2904/DSAPractice/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/viveksingh2904/DSAPractice/tree/master/1078-remove-outermost-parentheses) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/viveksingh2904/DSAPractice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Greedy
@@ -150,4 +151,8 @@ Revision For DSA
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/viveksingh2904/DSAPractice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0543-diameter-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/viveksingh2904/DSAPractice/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
