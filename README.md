@@ -77,6 +77,7 @@ Revision For DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/viveksingh2904/DSAPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/viveksingh2904/DSAPractice/tree/master/0455-assign-cookies) |
@@ -163,4 +164,8 @@ Revision For DSA
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/viveksingh2904/DSAPractice/tree/master/1078-remove-outermost-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/viveksingh2904/DSAPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
