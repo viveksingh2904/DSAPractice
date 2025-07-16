@@ -18,6 +18,7 @@ Revision For DSA
 | [0135-candy](https://github.com/viveksingh2904/DSAPractice/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
 | [0300-longest-increasing-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/viveksingh2904/DSAPractice/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
@@ -36,6 +37,7 @@ Revision For DSA
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/viveksingh2904/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -62,6 +64,7 @@ Revision For DSA
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/viveksingh2904/DSAPractice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -70,6 +73,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/viveksingh2904/DSAPractice/tree/master/0455-assign-cookies) |
@@ -154,6 +158,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
