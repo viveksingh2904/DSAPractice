@@ -192,4 +192,8 @@ Revision For DSA
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/viveksingh2904/DSAPractice/tree/master/0645-set-mismatch) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/viveksingh2904/DSAPractice/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
