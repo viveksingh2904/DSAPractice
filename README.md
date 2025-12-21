@@ -6,6 +6,7 @@ Revision For DSA
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/viveksingh2904/DSAPractice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/viveksingh2904/DSAPractice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -39,6 +40,7 @@ Revision For DSA
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/viveksingh2904/DSAPractice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/viveksingh2904/DSAPractice/tree/master/0645-set-mismatch) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
