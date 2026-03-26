@@ -22,5 +22,5 @@ class Solution {
             i++;
         }
         return (int) (sign * res);
-    };
+    }
 }
