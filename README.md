@@ -50,6 +50,7 @@ Revision For DSA
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/viveksingh2904/DSAPractice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/viveksingh2904/DSAPractice/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/viveksingh2904/DSAPractice/tree/master/1078-remove-outermost-parentheses) |
