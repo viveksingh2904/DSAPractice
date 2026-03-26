@@ -146,12 +146,14 @@ Revision For DSA
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0099-recover-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/viveksingh2904/DSAPractice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0543-diameter-of-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/viveksingh2904/DSAPractice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0099-recover-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/viveksingh2904/DSAPractice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0543-diameter-of-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/viveksingh2904/DSAPractice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -174,6 +176,7 @@ Revision For DSA
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0099-recover-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/viveksingh2904/DSAPractice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
@@ -198,4 +201,8 @@ Revision For DSA
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/viveksingh2904/DSAPractice/tree/master/0584-find-customer-referee) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
