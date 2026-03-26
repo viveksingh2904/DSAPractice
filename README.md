@@ -192,6 +192,7 @@ Revision For DSA
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viveksingh2904/DSAPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/viveksingh2904/DSAPractice/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0024-swap-nodes-in-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -217,4 +218,8 @@ Revision For DSA
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/viveksingh2904/DSAPractice/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
