@@ -141,6 +141,7 @@ Revision For DSA
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/viveksingh2904/DSAPractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/viveksingh2904/DSAPractice/tree/master/1236-n-th-tribonacci-number) |
