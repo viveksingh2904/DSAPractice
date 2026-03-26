@@ -169,6 +169,7 @@ Revision For DSA
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/viveksingh2904/DSAPractice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
 ## Trie
@@ -190,6 +191,7 @@ Revision For DSA
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viveksingh2904/DSAPractice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/viveksingh2904/DSAPractice/tree/master/0023-merge-k-sorted-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -207,4 +209,12 @@ Revision For DSA
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/viveksingh2904/DSAPractice/tree/master/0099-recover-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/viveksingh2904/DSAPractice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/viveksingh2904/DSAPractice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
