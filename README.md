@@ -33,6 +33,7 @@ Revision For DSA
 | [0747-min-cost-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/viveksingh2904/DSAPractice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/viveksingh2904/DSAPractice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/viveksingh2904/DSAPractice/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -87,6 +88,7 @@ Revision For DSA
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/viveksingh2904/DSAPractice/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/viveksingh2904/DSAPractice/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/viveksingh2904/DSAPractice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
@@ -101,6 +103,7 @@ Revision For DSA
 | [0287-find-the-duplicate-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/viveksingh2904/DSAPractice/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/viveksingh2904/DSAPractice/tree/master/0985-bag-of-tokens) |
 ## Dynamic Programming
 |  |
