@@ -23,6 +23,7 @@ Revision For DSA
 | [0152-maximum-product-subarray](https://github.com/viveksingh2904/DSAPractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/viveksingh2904/DSAPractice/tree/master/0322-coin-change) |
@@ -46,6 +47,7 @@ Revision For DSA
 | ------- |
 | [0001-two-sum](https://github.com/viveksingh2904/DSAPractice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/viveksingh2904/DSAPractice/tree/master/0645-set-mismatch) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -86,6 +88,7 @@ Revision For DSA
 | [0015-3sum](https://github.com/viveksingh2904/DSAPractice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/viveksingh2904/DSAPractice/tree/master/0455-assign-cookies) |
@@ -145,6 +148,7 @@ Revision For DSA
 | [0035-search-insert-position](https://github.com/viveksingh2904/DSAPractice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksingh2904/DSAPractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0300-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/viveksingh2904/DSAPractice/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -156,6 +160,7 @@ Revision For DSA
 | [0007-reverse-integer](https://github.com/viveksingh2904/DSAPractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/viveksingh2904/DSAPractice/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/viveksingh2904/DSAPractice/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
 |  |
@@ -212,6 +217,7 @@ Revision For DSA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/viveksingh2904/DSAPractice/tree/master/0645-set-mismatch) |
 ## Database
