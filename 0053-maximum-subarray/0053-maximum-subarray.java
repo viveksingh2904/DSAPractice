@@ -1,20 +1,20 @@
 class Solution {
-    public int maxSubArray(int[] nums) {
-        int n = nums.length;
-        int maxi = Integer.MIN_VALUE;
-        int sum =0;
-        for(int i =0;i<n;i++){
-            sum+= nums[i];
-            if(sum>maxi){
-                maxi = sum;
-            }
-            if(sum<0){
-                sum=0;
-            }
+    public int kadane(int[]arr){
+        int currentSum=0;
+        int maxSum=Integer.MIN_VALUE;
+        for(int i=0;i<arr.length;i++){
+            currentSum+=arr[i];
+        if(currentSum>maxSum){
+            maxSum=currentSum;
         }
-         return maxi;
-    
+        if(currentSum<0){
+            currentSum=0;
+        }
+        }
+        return maxSum;
+
     }
-    
+    public int maxSubArray(int[] nums) {
+         return kadane(nums);
+    }
 }
-       
