@@ -60,6 +60,7 @@ Revision For DSA
 | [0008-string-to-integer-atoi](https://github.com/viveksingh2904/DSAPractice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/viveksingh2904/DSAPractice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/viveksingh2904/DSAPractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/viveksingh2904/DSAPractice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/viveksingh2904/DSAPractice/tree/master/1078-remove-outermost-parentheses) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/viveksingh2904/DSAPractice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -110,6 +111,7 @@ Revision For DSA
 | [0042-trapping-rain-water](https://github.com/viveksingh2904/DSAPractice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/viveksingh2904/DSAPractice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/viveksingh2904/DSAPractice/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0977-squares-of-a-sorted-array) |
