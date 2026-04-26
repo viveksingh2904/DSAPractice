@@ -48,6 +48,7 @@ Revision For DSA
 | ------- |
 | [0001-two-sum](https://github.com/viveksingh2904/DSAPractice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/viveksingh2904/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/viveksingh2904/DSAPractice/tree/master/0645-set-mismatch) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/viveksingh2904/DSAPractice/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -60,6 +61,7 @@ Revision For DSA
 | [0008-string-to-integer-atoi](https://github.com/viveksingh2904/DSAPractice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/viveksingh2904/DSAPractice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/viveksingh2904/DSAPractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/viveksingh2904/DSAPractice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/viveksingh2904/DSAPractice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/viveksingh2904/DSAPractice/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/viveksingh2904/DSAPractice/tree/master/1078-remove-outermost-parentheses) |
@@ -91,6 +93,7 @@ Revision For DSA
 | [0016-3sum-closest](https://github.com/viveksingh2904/DSAPractice/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/viveksingh2904/DSAPractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/viveksingh2904/DSAPractice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/viveksingh2904/DSAPractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/viveksingh2904/DSAPractice/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/viveksingh2904/DSAPractice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/viveksingh2904/DSAPractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
